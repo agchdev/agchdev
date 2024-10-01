@@ -11,7 +11,7 @@ Aquí en **GitHub**, podrás explorar mi trabajo y contribuciones, desde proyect
 >[!IMPORTANT]
 >Si te interesa colaborar o intercambiar ideas, ¡no dudes en contactarme! 💬
 
-Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.
+**Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.**
 
 Un saludo,
 AGCHDEV 🌟
