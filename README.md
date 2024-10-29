@@ -19,5 +19,8 @@ Aquí en **GitHub**, podrás explorar mi trabajo y contribuciones, desde proyect
 **Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.**
 
 ![github-user-contribution](https://github.com/user-attachments/assets/9318f177-e5ca-4e2a-aaa5-ca980763dea8)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=agchdev&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
+
 Un saludo,
 AGCHDEV 🌟
