@@ -7,7 +7,7 @@ Soy un **desarrollador Full Stack** apasionado por el desarrollo de soluciones t
 
 ## **Que tecnologías utilizo?**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,java,javascript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,bootstrap,react,javascript,tailwind)](https://skillicons.dev)
 
 Me especializo en tecnologías como **JavaScript**, **React**, **PHP**, **Java**, **HTML**, **CSS**, **Tailwind** y **Bootstrap 💻**. Tanto en el backend, asegurándome de que todo funcione correctamente detrás de escena ⚙️, como en el frontend, construyendo interfaces atractivas y fáciles de usar 🎨, me esfuerzo por entregar código limpio, eficiente y bien documentado 📝.
 
