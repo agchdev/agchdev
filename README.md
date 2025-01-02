@@ -4,7 +4,7 @@
 
 ## **Quien soy?**
 Soy un **desarrollador en proceso de ser Full Stack** apasionado por el desarrollo de soluciones tanto en el **frontend** como en el **backend**. En mi perfil de **GitHub**, podrás encontrar proyectos que reflejan mi enfoque en crear aplicaciones completas y eficientes. Siempre estoy buscando nuevos desafíos que me permitan aprender y mejorar mis habilidades 🚧
-
+.
 ## **Que tecnologías utilizo?**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,bootstrap,react,tailwind)](https://skillicons.dev)
